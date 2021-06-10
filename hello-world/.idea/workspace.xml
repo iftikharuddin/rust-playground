@@ -53,8 +53,16 @@
       <option name="presentableId" value="Default" />
       <updated>1623269346781</updated>
       <workItem from="1623269348987" duration="95000" />
-      <workItem from="1623269456006" duration="706000" />
+      <workItem from="1623269456006" duration="1529000" />
     </task>
+    <task id="LOCAL-00001" summary="Learning RUST Language">
+      <created>1623270278969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623270278969</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learning RUST Language" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning RUST Language" />
   </component>
 </project>
